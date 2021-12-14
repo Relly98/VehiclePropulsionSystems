@@ -1,13 +1,15 @@
 # VehiclePropulsionSystems
 
-Some useful commands
+# Some useful commands
 
 Clone Repository
 git clone ...
 
-Create new branch: (everyone can create its own developping branch), when changes are not sure yet...
+Create new branch: 
+(everyone can create its own developping branch), when changes are not sure yet...
 
-Update branche: git pull
+Update branche: 
+git pull
 
 Committen/update your changes to git: 
 git add .
