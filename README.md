@@ -9,7 +9,8 @@ Create new branch:
 (everyone can create its own developping branch), when changes are not sure yet...
 
 Update branche: 
-git pull
+- git checkout BranchName
+- git pull
 
 Committ/update your changes to github.com
 
