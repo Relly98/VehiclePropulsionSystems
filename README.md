@@ -2,10 +2,10 @@
 
 # Some useful commands
 
-Clone Repository
-git clone ...
+Clone Repository - git clone ...
 
 Create new branch: 
+
 (everyone can create its own developping branch), when changes are not sure yet...
 
 Update branche: 
