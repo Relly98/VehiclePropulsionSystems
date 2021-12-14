@@ -11,7 +11,8 @@ Create new branch:
 Update branche: 
 git pull
 
-Committen/update your changes to git: 
+Committ/update your changes to github.com
+
 git add .
 git commit -m 'Write a comment'
 git push
